@@ -5,5 +5,5 @@ Algorithms. This data contains both numerical and categorical data. They were tr
 
 
 
-The metrics - the confusion matrix, accuracy, precision, recall, f1 score, ROC, AUC score were studied closely and it was observed that Random forest does the best. To find the best parameters, hyperparameter tunigs are also done. 
+The metrics - the confusion matrix, accuracy, precision, recall, f1 score, micro and macro average scores were studied closely and it was observed that Random forest does the best. To find the best parameters, hyperparameter tunigs are also done. 
 
